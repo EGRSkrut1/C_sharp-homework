@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egrsk\\Documents\\GitHub\\C_sharp-homework\\Static classes, methods, and constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06956C76-DAE6-480E-92B2-4DC3BB398BC4}|Static classes, methods, and constructor\\Static classes, methods, and constructor.csproj|c:\\users\\egrsk\\documents\\github\\c_sharp-homework\\static classes, methods, and constructor\\static classes, methods, and constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06956C76-DAE6-480E-92B2-4DC3BB398BC4}|Static classes, methods, and constructor\\Static classes, methods, and constructor.csproj|solutionrelative:static classes, methods, and constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egrsk\\Documents\\GitHub\\C_sharp-homework\\Static classes, methods, and constructor\\Static classes, methods, and constructor\\Program.cs",
+              "RelativeDocumentMoniker": "Static classes, methods, and constructor\\Program.cs",
+              "ToolTip": "C:\\Users\\egrsk\\Documents\\GitHub\\C_sharp-homework\\Static classes, methods, and constructor\\Static classes, methods, and constructor\\Program.cs",
+              "RelativeToolTip": "Static classes, methods, and constructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:07:39.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

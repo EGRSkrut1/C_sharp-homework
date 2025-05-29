@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egrsk\\Documents\\GitHub\\C_sharp-homework\\Keywords ref and out\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5E87E-B30C-42E5-AFA8-3087BE6D6C3F}|Keywords ref and out\\Keywords ref and out.csproj|c:\\users\\egrsk\\documents\\github\\c_sharp-homework\\keywords ref and out\\keywords ref and out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5E87E-B30C-42E5-AFA8-3087BE6D6C3F}|Keywords ref and out\\Keywords ref and out.csproj|solutionrelative:keywords ref and out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egrsk\\Documents\\GitHub\\C_sharp-homework\\Keywords ref and out\\Keywords ref and out\\Program.cs",
+              "RelativeDocumentMoniker": "Keywords ref and out\\Program.cs",
+              "ToolTip": "C:\\Users\\egrsk\\Documents\\GitHub\\C_sharp-homework\\Keywords ref and out\\Keywords ref and out\\Program.cs",
+              "RelativeToolTip": "Keywords ref and out\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:03:42.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
