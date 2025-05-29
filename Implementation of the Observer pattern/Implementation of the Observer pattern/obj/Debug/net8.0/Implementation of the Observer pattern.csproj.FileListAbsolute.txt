@@ -1,0 +1,15 @@
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\bin\Debug\net8.0\Implementation of the Observer pattern.exe
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\bin\Debug\net8.0\Implementation of the Observer pattern.deps.json
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\bin\Debug\net8.0\Implementation of the Observer pattern.runtimeconfig.json
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\bin\Debug\net8.0\Implementation of the Observer pattern.dll
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\bin\Debug\net8.0\Implementation of the Observer pattern.pdb
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.AssemblyInfoInputs.cache
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.AssemblyInfo.cs
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.csproj.CoreCompileInputs.cache
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.sourcelink.json
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.dll
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\refint\Implementation of the Observer pattern.dll
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.pdb
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\Implementation of the Observer pattern.genruntimeconfig.cache
+C:\Users\egrsk\Documents\GitHub\C_sharp-homework\Implementation of the Observer pattern\Implementation of the Observer pattern\obj\Debug\net8.0\ref\Implementation of the Observer pattern.dll
